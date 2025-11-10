@@ -53,10 +53,10 @@ In larger software projects, CI/CD is **fundamental** for managing complexity an
 ## Screenshots
 
 - [x] Initial deployment
-      ![Initial Deployment Screenshot](screenshots/Initial Deployment.png)
+      ![Initial Deployment Screenshot](screenshots/Initial-Deployment.png)
 
 - [x] GitHub Actions tab showing successful builds
-      **![GitHub Actions Success Log](screenshots/Github Actions.png)**
+      **![GitHub Actions Success Log](screenshots/Github-Actions.png)**
       
 - [x] Live website after final iteration
-      **![Final Live Website](screenshots/Live Website.png)**
+      **![Final Live Website](screenshots/Live-website.png)**
