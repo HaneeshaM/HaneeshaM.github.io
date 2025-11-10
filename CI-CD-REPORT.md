@@ -47,8 +47,9 @@ No challenges
 In larger software projects, CI/CD is fundamental for managing complexity and team collaboration. It ensures that code from dozens of developers is continuously integrated and tested automatically, catching bugs early before they reach production. The CD (Continuous Deployment) portion allows companies to release small, frequent updates (like feature flags or security patches) instantly to users with high confidence, enabling a faster response to market needs and critical vulnerabilities.
 
 ## Screenshots
-- [ ] Initial deployment
-        (screenshots/Initial Deployment.png)
+
+- [x] Initial deployment
+      ![Initial Deployment Screenshot](screenshots/Initial Deployment.png)
 
 - [ ] GitHub Actions tab showing successful builds
         (screenshots/Github Actions.png)
